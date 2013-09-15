@@ -1,22 +1,23 @@
 {
-"list0"{
+"list"{
 	"latitude" : "-7.800133,110.366262";
 	"title"    : "vedenbuurg",
 	"address"  : "Jl. Jend. A. Yani No 6, Yogyakarta 55224, Indonesia ",
 	"desc"     :  "benteng yang terletak di depan Gedung Agung dan istana Kesultanan Yogyakarta. Sekarang, benteng ini menjadi sebuah museum
 Benteng Vredeburg Yogyakarta berdiri terkait erat dengan lahirnya Kasultanan Yogyakarta. Perjanjian Giyanti 13 Februari 1755 yang berrhasil menyelesaikan perseteruan antara Susuhunan Pakubuwono III dengan Pangeran Mangkubumi (Sultan Hamengku Buwono I kelak) adalah merupakan hasil politik Belanda yang selalu ingin ikut campur urusan dalam negeri raja-raja Jawa waktu itu."
 },
-"list1"{
+"list"{
 	"latitude" : -7.787494, 110.368416 
 	"title"    : "kraton tamansari",
 	"address"    : "Jln. Veteran No. 147 Umbulharjo Yogyakarta
 	"desc :"istana resmi Kesultanan Ngayogyakarta Hadiningrat yang kini berlokasi di Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia. Walaupun kesultanan tersebut secara resmi telah menjadi bagian Republik Indonesia pada tahun 1950, kompleks bangunan keraton ini masih berfungsi sebagai tempat tinggal sultan dan rumah tangga istananya yang masih menjalankan tradisi kesultanan hingga saat ini"
 },
 
-"list2"{
+"list"{
 	"latitude" :"-7.928731, 110.390464",
 	"title":"imogiri"
 	"address":"gitirejo, yogyakarta, indonesia
 	"desc":"##komplek makam raja-raja mataram islam beserta keturunanannya--raja yan
 g bertahta di Surakarta dan Ngayogyakarta"
 },
+}
