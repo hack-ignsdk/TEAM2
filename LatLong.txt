@@ -1,0 +1,19 @@
+// TEMPAT MENARIK //
+
+benteng Vredeburg : -7.800133, 110.366262
+Kraton jogja : -7.808899, 110.363657
+Taman sari jogjakarta : -7.787494, 110.368416
+Imogiri : -7.928731, 110.390464
+
+// REKREASI // 
+
+gembira loka kebun binatang : -7.805458, 110.398218
+parangtritis : -8.021113, 110.318149
+taman pintar : -7.800752, 110.367855 
+
+
+// SHOPPING // 
+
+mall malioboro : -7.795884, 110.365366
+mall galeria : -7.782692, 110.374708
+mall plasa yogyakarta : -7.782647, 110.401302
