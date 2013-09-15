@@ -1,5 +1,5 @@
-$(val,div).click(function(){
-		$.getJSON(val+'.json',function(data){
+function showList(val,div){
+		$().getJSON(val+'.json',function(data){
 		$('div#'+val).html();
 		var s = '<div class="accordion" id="list">';
 		for ( i=0;i<data.count;i++){
